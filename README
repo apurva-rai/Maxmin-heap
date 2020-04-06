@@ -1,0 +1,4 @@
+Everything is working as described in the lab manual.
+There were some output inaccuracies in the lab manual description but they work correctly in my program.
+No memory leaks and no errors.
+make and run as "lab8"

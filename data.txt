@@ -1,0 +1,8 @@
+fruitninja,60
+subwaysurfers,80
+roadrash,50
+pubg,20
+ninjajump,70
+vector,80
+sudoku,20
+templerun,90 
